@@ -1,0 +1,11 @@
+Readme
+
+Erica Morgan
+
+Instructions for running server
+	Ensure that you have Node.js and NPM installed on your computer
+	Open terminal go to directory where the server is located and type the following:
+		npm install
+		npm start
+	Open a browser and type the following
+		http://localhost:3000/
